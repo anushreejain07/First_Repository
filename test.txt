@@ -1,1 +1,1 @@
-Hello, Welcome to Github World for managing your source code properly
+Hello, Welcome to Github World for managing your source code properly. In the next part, we will understand commit and pull in more details :).
