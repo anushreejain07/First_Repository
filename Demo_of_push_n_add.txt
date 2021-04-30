@@ -1,0 +1,1 @@
+This is to see the changes that we are going to do in our local repository to github repository by first add it to staging area.
